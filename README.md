@@ -7,13 +7,13 @@ I focus on delivering **high-quality apps** that provide **exceptional user expe
 ---
 
 ## 🛠 Skills  
-**Android** | **Kotlin** | **Jetpack Compose** | **MVVM** | **Node.js** | **MongoDB** | **Retrofit** | **REST APIs**
+**Android** | **Kotlin** | **Jetpack Compose** | **MVVM** | **Spring boot** | **Node.js** | **MongoDB** | **Retrofit** | **REST APIs** 
 
 ---
 
 ## 🚀 Currently Working On  
 ✔ Building advanced **Android features** using **Jetpack Compose**  
-✔ Enhancing **backend integrations** with **Node.js**  
+✔ Enhancing **backend integrations** with **Spring boot** and **Node.js** 
 ✔ Exploring **Flutter** for cross-platform development  
 
 ---
