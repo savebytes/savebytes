@@ -13,7 +13,7 @@ I focus on delivering **high-quality apps** that provide **exceptional user expe
 
 ## 🚀 Currently Working On  
 ✔ Building advanced **Android features** using **Jetpack Compose**  
-✔ Enhancing **backend integrations** with **Spring boot** and **Node.js**
+✔ Enhancing **backend integrations** with **Spring boot** and **Node.js**  
 ✔ Exploring **Flutter** for cross-platform development  
 
 ---
