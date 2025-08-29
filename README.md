@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Ankit Singh
 
-<!--
-**savebytes/savebytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me  
+I’m an **Android Developer** who loves building modern, scalable mobile applications with **clean architecture** and **elegant UI**.  
+I focus on delivering **high-quality apps** that provide **exceptional user experiences**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills  
+**Android** | **Kotlin** | **Jetpack Compose** | **MVVM** | **Node.js** | **MongoDB** | **Retrofit** | **REST APIs**
+
+---
+
+## 🚀 Currently Working On  
+✔ Building advanced **Android features** using **Jetpack Compose**  
+✔ Enhancing **backend integrations** with **Node.js**  
+✔ Exploring **Flutter** for cross-platform development  
+
+---
+
+## 📫 How to Reach Me  
+- **Email:** [ankit.singh4x@gmail.com](mailto:ankit.singh4x@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/ankit-singh-72b744225](https://linkedin.com/in/ankit-singh-72b744225)  
+- **GitHub:** [github.com/savebytes](https://github.com/savebytes)  
+- **X (Twitter):** [x.com/singhankitt_](https://x.com/singhankitt_)  
+
+---
